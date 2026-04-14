@@ -7,9 +7,9 @@ Based in Porto, Portugal 🇵🇹  Open to work
 
 ## What I do
 
-I specialise in **React**, **TypeScript**, and **Next.js**, with a focus on component architecture, design systems, and frontend quality at scale. I care about the full picture: developer experience, accessibility, testing, and shipping things that hold up in production.
+**React**, **TypeScript**, and **Next.js**, with a focus on component architecture, design systems, and frontend quality at scale. I care about the full picture: developer experience, accessibility, testing, and shipping to production.
 
-Past work spans **B2B e-commerce**, **analytics dashboards**, **internal tooling**, and **design system infrastructure** — across companies like Mercedes-Benz.io, Mindera, Hitachi, worked on projects for HSBC, Vodafone, Caterpillar, 2K Games, Burger King, Net-a-Porter.
+Past work spans **B2B e-commerce**, **analytics dashboards**, **internal tooling**, and **design system infrastructure** at companies like Mercedes-Benz.io, Mindera, Hitachi, worked on projects for HSBC, Vodafone, Caterpillar, 2K Games, Burger King, Net-a-Porter.
 
 ---
 
