@@ -9,7 +9,7 @@ Based in Porto, Portugal 🇵🇹  Open to work
 
 **React**, **TypeScript**, and **Next.js**, with a focus on component architecture, design systems, and frontend quality at scale. 
 
-Worked at Mercedes-Benz.io, Mindera, Hitachi, worked on projects for HSBC, Vodafone, Caterpillar, 2K Games, Burger King, Net-a-Porter a few others.
+Worked at Mercedes-Benz.io, Mindera, Hitachi, worked on projects for HSBC, Vodafone, Caterpillar, 2K Games, Burger King, Net-a-Porter and few others.
 
 ---
 
