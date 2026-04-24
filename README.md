@@ -1,4 +1,4 @@
-# Hi, Im Pedro 👋
+# Hi, Im Pedro 👋  
 
 
 Based in Porto, Portugal 🇵🇹  Open to work
@@ -7,15 +7,15 @@ Based in Porto, Portugal 🇵🇹  Open to work
 
 ## What I do
 
-**React**, **TypeScript**, and **Next.js**, with a focus on component architecture, design systems, and frontend quality at scale. I care about the full picture: developer experience, accessibility, testing, and shipping to production.
+**React**, **TypeScript**, and **Next.js**, with a focus on component architecture, design systems, and frontend quality at scale. 
 
-Past work spans **B2B e-commerce**, **analytics dashboards**, **internal tooling**, and **design system infrastructure** at companies like Mercedes-Benz.io, Mindera, Hitachi, worked on projects for HSBC, Vodafone, Caterpillar, 2K Games, Burger King, Net-a-Porter.
+Worked at Mercedes-Benz.io, Mindera, Hitachi, worked on projects for HSBC, Vodafone, Caterpillar, 2K Games, Burger King, Net-a-Porter a few others.
 
 ---
 
 ## Core stack
 
-`React` · `TypeScript` · `Next.js` · `Redux` · `Storybook`  · `Vitest/Jest` · `Cypress/Playwright` · `GitHub Actions`
+`React` · `NodeJS` · `Hono` · `TypeScript` · `Next.js` · `Redux` · `Storybook`  · `Vitest/Jest` · `Cypress/Playwright` · `GitHub Actions`
 
 ---
 
