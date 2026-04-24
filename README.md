@@ -15,7 +15,7 @@ Worked at Mercedes-Benz.io, Mindera, Hitachi, worked on projects for HSBC, Vodaf
 
 ## Core stack
 
-`React` · `NodeJS` · `Hono` · `TypeScript` · `Next.js` · `Redux` · `Storybook`  · `Vitest/Jest` · `Cypress/Playwright` · `GitHub Actions`
+`React` · `Next` · `Node` · `Hono` · `TypeScript` · `Redux` · `Storybook`  · `Vitest/Jest` · `Cypress/Playwright` · `GitHub Actions`
 
 ---
 
